@@ -1,4 +1,4 @@
-##Introducao
+# Introducao
 1. Instale  [WAMP](https://www.wampserver.com/en/download-wampserver-64bits/) para MySQL server.
 
 2. Importe  [chatapp.sql](/Live-Chat-Application/sql/chatapp.sql) para o phpMyAdmin. 
